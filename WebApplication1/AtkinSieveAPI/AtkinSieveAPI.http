@@ -1,0 +1,6 @@
+@AtkinSieveAPI_HostAddress = http://localhost:5225
+
+GET {{AtkinSieveAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
